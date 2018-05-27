@@ -9,12 +9,12 @@
             "email": "weigert.jonas@gmail.com"
         }
     ],
-    "require": {}
     "autoload": {
         "psr-4": {
             "LaravelEncryptable\\": "src/LaravelEncryptable"
         }
     },
+    "require": {},
     "require-dev": {
         "guzzlehttp/guzzle": ">=6.0",
         "laravel/framework": "~5.2",
